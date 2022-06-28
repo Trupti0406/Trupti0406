@@ -10,5 +10,5 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/trupti-yadav/" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
+<a href="https://www.linkedin.com/in/trupti-yadav/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" /></a>
 </p>
