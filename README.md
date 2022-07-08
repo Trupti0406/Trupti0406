@@ -4,8 +4,8 @@
 #### About me:
 
 - 🔭 I’m currently working on: ReactJs
-- 🌱 I’m currently learning: MERN Stack
-- 📫 How to reach me: Gmail: truptivijayyadav27@gmail.com
+- 🌱 Aspiring MERN Stack developer
+- 📫 How to reach me: Gmail- truptivijayyadav27@gmail.com
 - 😄 Pronouns: she/her
 
 <h3 align="left">Connect with me:</h3>
