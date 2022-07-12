@@ -1,5 +1,5 @@
 ### Hi there, I work on Frontend Oriented Projects 👋
-<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="230" width="38%">
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" height="230" width="58%">
 
 #### About me:
 
