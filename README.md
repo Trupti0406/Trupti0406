@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on several MERN projects and advancing my full-stack skills.<br>👯 I’m looking to collaborate on projects based on Full-Stack development.<br>🤝 I’m looking for help with open source and job opportunities in the field of development.<br>🌱 I’m currently learning the MERN stack<br>💬 Ask me about anything that you want to know.<br>⚡ Fun fact about my professional life is, for the longest time I thought I'd never get into coding. But here we are(happily).
+#### ’m currently working on several MERN projects and advancing my full-stack skills.
+#### I’m looking to collaborate on projects based on Full-Stack development.
+#### I’m looking for help with open source and job opportunities in the field of development.
+#### I’m currently learning the MERN stack.
+#### Ask me about anything that you want to know.
 
 
 ## 🌐 Socials:
