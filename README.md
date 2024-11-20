@@ -35,8 +35,8 @@ I am a dedicated and passionate full-stack developer currently working at **Infi
 
 ## 📚 Additional Skills
 
-- **Programming Languages**: C++, Java
+- **Programming Languages**: Javascript, C++, Java
 - **Version Control**: Git and GitHub
-- **Tools**: WebSocket, REST APIs
+- **Tools**: WebSocket, REST APIs, Postman, Figma
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
